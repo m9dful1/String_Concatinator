@@ -1,0 +1,19 @@
+START
+
+DECLARE variables str1, str2, result as string
+
+FOR i FROM 0 TO 2 DO
+    PRINT "Enter the first string: "
+    READ str1 from user input
+
+    PRINT "Enter the second string: "
+    READ str2 from user input
+
+    SET result to concatenation of str1 and str2
+
+    PRINT "Concatenated string: " + result
+
+    PRINT "-----------------------------"
+END FOR
+
+END
