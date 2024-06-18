@@ -1,3 +1,9 @@
+/*
+ *String_Concatinator.cpp
+ *
+ * Created on June 16, 2024
+ *     Author: Jeremy Matthews
+ */
 #include <iostream>
 #include <string>
 
